@@ -1,5 +1,4 @@
 ```python
-// imports
 import csv
 
 attributes = [['Sunny','Rainy'],
