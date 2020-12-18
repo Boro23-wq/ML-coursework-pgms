@@ -1,7 +1,7 @@
 import pandas as pd
 from pandas import DataFrame as df
 
-#Reading Dataset
+# Reading Dataset
 df_tennis = pd.read_csv('PlayTennis.csv')
 
 # print(play_tennis)
@@ -18,7 +18,6 @@ def entropy(probs):
 #Function to calulate the entropy of the given Data Sets/List with respect to target attributes
 
 # -p*log2*p
-
 
 def entropy(probs):
     import math
