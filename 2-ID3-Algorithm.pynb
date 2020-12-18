@@ -1,5 +1,4 @@
 import pandas as pd
-# importing DataFrame (data structure)
 from pandas import DataFrame as df
 
 #Reading Dataset
