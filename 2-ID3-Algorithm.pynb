@@ -1,4 +1,3 @@
-# importing pandas (high-level data manipulation)
 import pandas as pd
 # importing DataFrame (data structure)
 from pandas import DataFrame as df
